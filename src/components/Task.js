@@ -1,6 +1,12 @@
 import React from "react";
+import { CATEGORIES, TASKS } from "../data";
 
 function Task() {
+
+  // function taskItem() {
+  //   taskList = 
+  // }
+
   return (
     <div className="task">
       <div className="label">CATEGORY HERE</div>
